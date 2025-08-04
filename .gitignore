@@ -1,7 +1,8 @@
 # Ignore everything
 *
 
-# But not these:
+# Allow folders and desired files
+!*/
 !*.cpp
 !.gitignore
 !README.md
